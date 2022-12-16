@@ -18,3 +18,9 @@ masked weights: https://drive.google.com/file/d/1-45kcQX-L-YQ8eEoCyj4BRlvT1PD7z0
 visualization_demo_unmasked contains code for creating visuals and running a demo for unmsked faces
 
 visualization_demo_masked contains code for creating visuals and running a demo for masked faces
+
+## Paper
+cis581_project_final_report.pdf is our final report
+
+## Video Presentation
+link to video: https://drive.google.com/file/d/1XVAj3VoW4TdS6CYCGPQa9HBcgGfBitk6/view?usp=sharing
